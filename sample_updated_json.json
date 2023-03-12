@@ -1,0 +1,96 @@
+{
+    "search_term": "best hiking boots",
+    "products": [
+        {
+            "name": "Salomon Men's X Ultra 3 GTX Hiking Boots",
+            "code": "B07SCV54ZF",
+            "title": "Salomon Men's X Ultra 3 GTX Hiking Boots",
+            "rating": "4.6",
+            "ratings_total": "2720",
+            "reviews_total": "",
+            "buybox_winner": {
+                "availability": {
+                    "raw": "In stock"
+                }
+            }
+        },
+        {
+            "name": "Merrell Men's Moab 2 Waterproof Hiking Boots",
+            "code": "B01HFA7NU6",
+            "title": "Merrell Men's Moab 2 Waterproof Hiking Boots",
+            "rating": "4.6",
+            "ratings_total": "8157",
+            "reviews_total": "",
+            "buybox_winner": {
+                "availability": {
+                    "raw": "In stock"
+                }
+            }
+        },
+        {
+            "name": "Columbia Men's Newton Ridge Plus II Waterproof Hiking Boot",
+            "code": "B07DV6N3BL",
+            "title": "Columbia Men's Newton Ridge Plus II Waterproof Hiking Boot",
+            "rating": "4.6",
+            "ratings_total": "14866",
+            "reviews_total": "",
+            "buybox_winner": {
+                "availability": {
+                    "raw": "In stock"
+                }
+            }
+        },
+        {
+            "name": "KEEN Men's Targhee III Waterproof Hiking Boot",
+            "code": "B07Q2N1N5G",
+            "title": "KEEN Men's Targhee III Waterproof Hiking Boot",
+            "rating": "4.6",
+            "ratings_total": "7682",
+            "reviews_total": "",
+            "buybox_winner": {
+                "availability": {
+                    "raw": "In stock"
+                }
+            }
+        },
+        {
+            "name": "Merrell Men's Moab Adventure Lace Waterproof Hiking Shoe",
+            "code": "B07HY2QF82",
+            "title": "Merrell Men's Moab Adventure Lace Waterproof Hiking Shoe",
+            "rating": "4.6",
+            "ratings_total": "1056",
+            "reviews_total": "",
+            "buybox_winner": {
+                "availability": {
+                    "raw": "In stock"
+                }
+            }
+        },
+        {
+            "name": "Timberland Men's White Ledge Mid Waterproof Ankle Boot",
+            "code": "B000VX6YKW",
+            "title": "Timberland Men's White Ledge Mid Waterproof Ankle Boot",
+            "rating": "4.5",
+            "ratings_total": "20531",
+            "reviews_total": "",
+            "buybox_winner": {
+                "availability": {
+                    "raw": "In stock"
+                }
+            }
+        },
+        {
+            "name": "Salomon Women's X Ultra 3 GTX Hiking Shoes",
+            "code": "B073JXDCX9",
+            "title": "Salomon Women's X Ultra 3 GTX Hiking Shoes",
+            "rating": "4.6",
+            "ratings_total": "2738",
+            "reviews_total": "",
+            "buybox_winner": {
+                "availability": {
+                    "raw": "In stock"
+                }
+            }
+        }
+    ]
+}

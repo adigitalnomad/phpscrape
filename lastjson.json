@@ -1,0 +1,171 @@
+{
+    "search_term": "best hiking boots",
+    "products": [
+        {
+            "name": "Salomon Men's X Ultra 3 GTX Hiking Boots",
+            "code": "B07SCV54ZF",
+            "title": "Salomon Men's X Ultra 3 GTX Hiking Boots",
+            "rating": "4.6",
+            "ratings_total": "2720",
+            "reviews_total": "",
+            "buybox_winner": {
+                "availability": {
+                    "raw": "In stock"
+                }
+            },
+            "images": [
+                "https://m.media-amazon.com/images/I/617NtexaW2L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71cs-unZZqL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61P3Jhyw2DL._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/61Cu4fF1MBL._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/81ffX34OsAL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61c0HMo4mhL._AC_SL1500_.jpg"
+            ],
+            "feature_bullets": [
+                "Order with your Alexa enabled device. Just ask \"Alexa, order SanDisk microSD.\".",
+                "SanDisk Memory Zone app for easy file management (Download and Installation Required).",
+                "Class 10 for Full HD video recording and playback (Full HD (1920x1080) video support may vary based upon host device, file attributes, and other factors.).",
+                "Load apps faster with A1-rated performance (A1 performance is 1500 read IOPS, 500 write IOPS. Based on internal testing. Results may vary based on host device, app type and other factors.).",
+                "Up to 100MB/s transfer read speed (Based on internal testing; Performance may be lower depending on host device, interface, usage conditions and other factors.) lets you move up to 1000 photos in a minute (Based on 4.1GB transfer of photos (Average file 3.5MB) with USB 3.0 reader. Results may vary based on host device, file attributes and other factors.).",
+                "Capacities up to 512GB (1GB=1,000,000,000 bytes. Actual user storage less) to store even more hours of Full HD video (Approximations; results and Full HD (1920x1080) video support may vary based on host device, file attributes and other factors.).",
+                "Ideal for Android Smartphones and Tablets. Certified to work with Chromebooks. (This product has been certified to meet Google’s compatibility standards. Chromebook and the “Works with Chromebook” badge are trademarks of Google LLC.)."
+            ],
+            "attributes": [
+                {
+                    "name": "Brand",
+                    "value": "SanDisk"
+                },
+                {
+                    "name": "Series",
+                    "value": "SanDisk Ultra 128GB microSDXC UHS-I card with Adapter - SDSQUAR-128G-GN6MA"
+                },
+                {
+                    "name": "Flash Memory Type",
+                    "value": "Micro SD"
+                },
+                {
+                    "name": "Memory Storage Capacity",
+                    "value": "128 GB"
+                },
+                {
+                    "name": "Compatible Devices", "value": "Tablet, Smartphone"
+            }
+        ],
+        "specifications_flat": "Compatible Devices: Tablet, Smartphone. Memory Storage Capacity: 128 GB. Flash Memory Type: Micro SD. Series: SanDisk Ultra 128GB microSDXC UHS-I card with Adapter - SDSQUAR-128G-GN6MA. Brand: SanDisk.",
+        "images_flat": "https://m.media-amazon.com/images/I/617NtexaW2L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71cs-unZZqL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61P3Jhyw2DL._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/61Cu4fF1MBL._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/81ffX34OsAL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61c0HMo4mhL._AC_SL1500_.jpg"
+    },
+    {
+    "name": "Bose QuietComfort 35 II Wireless Bluetooth Headphones",
+    "code": "B0756CYWWD",
+    "title": "Bose QuietComfort 35 II Wireless Bluetooth Headphones",
+    "rating": "4.8",
+    "ratings_total": "53966",
+    "reviews_total": "24,017",
+    "buybox_winner": {
+        "availability": {
+            "raw": "In stock"
+        }
+    },
+    "images": [
+        "https://m.media-amazon.com/images/I/81+jNVOUsJL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81n3+9pC3FL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81j-hTCkjzL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Fx57q-ZpL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81gj3U6d4eL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81V7eegEg8L._AC_SL1500_.jpg"
+    ],
+    "feature_bullets": [
+        "Three levels of world-class noise cancellation for better listening experience in any environment",
+        "Alexa-enabled for voice access to music, information, and more",
+        "Noise-rejecting dual-microphone system for clear sound and voice pick-up",
+        "Balanced audio performance at any volume",
+        "Hassle-free Bluetooth pairing, personalized settings, access to future updates, and more through the Bose Connect app",
+        "Bose AR enabled — an innovative, audio-only version of augmented reality",
+        "Unlock Bose AR via a firmware update through the Bose Connect app"
+    ],
+    "attributes": [
+        {
+            "name": "Brand",
+            "value": "Bose"
+        },
+        {
+            "name": "Connections",
+            "value": "Wireless"
+        },
+        {
+            "name": "Model Name",
+            "value": "QuietComfort 35 II"
+        },
+        {
+            "name": "Form Factor",
+            "value": "Over Ear"
+        },
+        {
+            "name": "Color",
+            "value": "Black"
+        },
+        {
+            "name": "Connector Type",
+            "value": "3.5mm Jack"
+        }
+    ],
+    "specifications_flat": "Brand: Bose. Connections: Wireless. Model Name: QuietComfort 35 II. Form Factor: Over Ear. Color: Black. Connector Type: 3.5mm Jack.",
+    "images_flat": "https://m.media-amazon.com/images/I/81+jNVOUsJL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81n3+9pC3FL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81j-hTCkjzL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81Fx57q-ZpL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81gj3U6d4eL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81V7eegEg8L._AC_SL1500_.jpg"
+    },
+    {       
+    "name": "Sony Noise Cancelling Headphones WHCH710N",        
+        "code": "B0863TXGM3",        
+        "title": "Sony Noise Cancelling Headphones WHCH710N",
+        "rating": "4.5",        
+        "ratings_total": "22000",        
+        "reviews_total": "",        
+        "buybox_winner": {
+            "availability": {                
+                "raw": "In stock"            
+                
+            }        
+            
+        },        
+        "images": [            
+            "https://m.media-amazon.com/images/I/71pzdZmW8+L._AC_SL1500_.jpg",            
+            "https://m.media-amazon.com/images/I/71QFZBB1nQL._AC_SL1500_.jpg",            
+            "https://m.media-amazon.com/images/I/71EsrzJgGGL._AC_SL1500_.jpg",            
+            "https://m.media-amazon.com/images/I/71F2A+p+qwL._AC_SL1500_.jpg",            
+            "https://m.media-amazon.com/images/I/71p+N8t+JmL._AC_SL1500_.jpg",            
+            "https://m.media-amazon.com/images/I/71YdxPzmqbL._AC_SL1500_.jpg"        
+    ],
+        "feature_bullets": [
+            "Cancel out the world with smart noise cancellation",
+            "Noise cancellation automatically senses your environment with Dual Noise Sensor Technology",
+            "Wireless Bluetooth streaming with NFC one-touch",
+            "Long-lasting listening with up to 35 hours of battery and quick charging",
+            "Built-in microphone for hands-free calls and use with your voice assistant"
+        ],
+        "attributes": [
+            {
+                "name": "Brand",
+                "value": "Sony"
+            },
+            {
+                "name": "Model Name",
+                "value": "WHCH710N"
+            },
+            {
+                "name": "Connectivity Technology",
+                "value": "Wireless"
+            },
+            {
+                "name": "Form Factor",
+                "value": "Over Ear"
+            },
+            {
+                "name": "Headphones Jack",
+                "value": "3.5 mm"
+            }
+        ],
+        "specifications_flat": "Brand: Sony. Model Name: WHCH710N. Connectivity Technology: Wireless. Form Factor: Over Ear. Headphones Jack: 3.5 mm.",
+        "images_flat": "https://m.media-amazon.com/images/I/71pzdZmW8+L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71QFZBB1nQL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71EsrzJgGGL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71F2A+p+qwL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71p+N8t+JmL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71YdxPzmqbL._AC_SL1500_.jpg"
+    }
+]
+}
+                   

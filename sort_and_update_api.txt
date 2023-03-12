@@ -1,0 +1,43 @@
+// Load the JSON file contents into a variable
+$json_string = file_get_contents($file_path);
+
+// Decode the JSON string into an array
+$results = json_decode($json_string, true);
+
+// Loop through the results array and make a call to the ASIN Data API for each product
+foreach ($results as &$result) {
+    foreach ($result['products'] as &$product) {
+        // Set up the request parameters for the ASIN Data API
+        $query_string = http_build_query([
+            'api_key' => '2233BBA09DBD4188B51CBB31F3836E46',
+            'amazon_domain' => 'amazon.com',
+            'asin' => $product['code'],
+            'type' => 'product',
+            'output' => 'csv',
+            'csv_fields' => 'product.title,product.rating,product.ratings_total,product.buybox_winner.availability.raw,product.title'
+]);
+
+        // Make the http GET request to ASIN Data API
+        $ch = curl_init(sprintf('%s?%s', 'https://api.asindataapi.com/request', $query_string));
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+        // The following options are required if you're using an outdated OpenSSL version
+        // More details: https://www.openssl.org/blog/blog/2021/09/13/LetsEncryptRootCertExpire/
+        curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+        curl_setopt($ch, CURLOPT_TIMEOUT, 180);
+
+        $api_result = curl_exec($ch);
+        curl_close($ch);
+
+        // Process the CSV response and extract the required data
+        $lines = explode("\n", $api_result);
+        foreach ($lines as $line) {
+    $fields = str_getcsv($line);
+    if (count($fields) >= 4) {
+        $product['title'] = $fields[0];
+        $product['rating'] = $fields[1];
+        $product['ratings_total'] = $fields[2];
+        $product['buybox_winner']['availability']['raw'] = $fields[3];
+    }
+}
